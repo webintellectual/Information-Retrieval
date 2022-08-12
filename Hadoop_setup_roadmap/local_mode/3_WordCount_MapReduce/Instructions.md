@@ -1,6 +1,8 @@
 ## Writing a WordCount MapReduce application, bundling it, and running it using the Hadoop local mode
 
-Use snake case only to name the files and folder.
+- Use snake case only to name the files and folder.
+- Specify path of python in .py files <br/>
+  #!{python path}
 
 Command to run mapReduce job:
 

@@ -5,7 +5,7 @@ This repository is a record of my work of IR course offered at IIIT Vadodara in 
 ---
 
 Java version: 1.8.0_341 (java 8) <br/>
-Hadoop version: 2.10.2
+Hadoop version: 2.10.2 <br/>
 Python version: 3.9.10 (Python3)
 
 - Java 8 is must to use hadoop
